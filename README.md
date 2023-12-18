@@ -1,5 +1,4 @@
-
-The three main Prompts outputs are displayed in the format "<First_Name><Last_Name>.png "
+# UCSF Fellowship Coding Callenge
 
 The solution code is under "UCSF Coding challenge" title
 
